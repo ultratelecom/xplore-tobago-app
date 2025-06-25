@@ -1,18 +1,19 @@
-# App Building Template
+# Xplore Tobago App Template
 
-A comprehensive template for building modern mobile applications with Expo and React Native.
+🏝️ A comprehensive template for building modern Tobago tourism and exploration mobile applications with Expo and React Native.
 
 ## 🚀 Features
 
 - **Expo React Native Setup**: Ready-to-use Expo configuration with TypeScript
-- **Modern Project Structure**: Clean, scalable file organization
-- **Production Ready**: Pre-configured for deployment
+- **Modern Project Structure**: Clean, scalable file organization optimized for tourism apps
+- **Production Ready**: Pre-configured for deployment to App Store and Google Play
 - **Cross Platform**: Works on iOS, Android, and Web
+- **Tourism Focused**: Perfect foundation for Tobago exploration, travel, and tourism apps
 
 ## 📁 Project Structure
 
 ```
-TEMPLATE-APP/
+xplore-tobago-app/
 ├── expo-mobile-starter/          # Main Expo React Native app
 │   ├── app/                      # App Router pages
 │   │   ├── _layout.tsx           # Root layout
@@ -29,8 +30,8 @@ TEMPLATE-APP/
 
 1. **Clone the template**
    ```bash
-   git clone <your-repo-url>
-   cd TEMPLATE-APP/expo-mobile-starter
+   git clone https://github.com/ultratelecom/xplore-tobago-app.git
+   cd xplore-tobago-app/expo-mobile-starter
    ```
 
 2. **Install dependencies**
@@ -79,13 +80,17 @@ npx expo build:android
 - **TypeScript**: Type-safe JavaScript
 - **Expo Router**: File-based navigation
 
-## 🎯 Next Steps
+## 🎯 Next Steps for Tobago Apps
 
-- Add authentication system
-- Implement navigation
-- Set up state management
-- Add UI component library
-- Configure backend integration
+- Add authentication system for tourist accounts
+- Implement navigation with tourism-focused screens
+- Set up state management for bookings and favorites
+- Add UI component library with Caribbean themes
+- Configure backend integration for local businesses
+- Integrate maps for Tobago locations and attractions
+- Add booking systems for tours and accommodations
+- Implement review and rating systems
+- Add offline support for remote areas
 
 ## 📄 License
 
