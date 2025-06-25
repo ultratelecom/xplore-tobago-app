@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@expo/metro-runtime": "^5.0.4"
+  }
+}
